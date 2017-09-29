@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">안심이</string>
+
+    <!-- tab menu title -->
+    <string name="tab_menu_title0">경보기</string>
+    <string name="tab_menu_title1">길찾기</string>
+    <string name="tab_menu_title2">내주변</string>
+    <string name="tab_menu_title3">설정</string>
+
+</resources>

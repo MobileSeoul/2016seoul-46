@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffc619</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--floating action button-->
+    <color name="fabPrimary">#ffc619</color>
+    <color name="fabPressed">#ffd919</color>
+    <color name="fabRipple">#ffec19</color>
+
+</resources>

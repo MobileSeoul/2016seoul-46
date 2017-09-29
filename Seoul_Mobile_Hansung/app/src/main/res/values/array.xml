@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dist">
+        <item>500m</item>
+        <item>1000m</item>
+        <item>1500m</item>
+    </string-array>
+</resources>
